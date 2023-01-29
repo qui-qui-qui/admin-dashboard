@@ -40,7 +40,7 @@ module.exports = {
         },
         backgroundImage: {
           'hero-pattern':
-            "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+            "url('https://eduwebstar.com/public/frontend/images/fbdf8e2f7f96bb424c14be09da1608f1.png')",
         },
       },
     },
